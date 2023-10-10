@@ -10,6 +10,6 @@ namespace UserAuthAPI.Models.DTO
         public string Question { get; set; }
         public string Answer { get; set; }
         public string UserEmail { get; set; }
-        // public int UserId {get; set;}
+
     }
 }
